@@ -31,7 +31,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>WELCOME</h1>
+      <h1>EMOJI MEANING</h1>
       <input onChange={inputChangeHandler} />
       <div>{emojiMeaning}</div>
       <h3>Dictionary</h3>
