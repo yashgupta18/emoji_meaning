@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./styles.css";
 
 var dict = {
-  "😂": "happy",
+  "😂": "laughing",
   "😞": "sad",
   "😡": "angry",
   "❤️": "heart",
